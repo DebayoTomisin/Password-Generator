@@ -1,0 +1,14 @@
+:root{
+    box-sizing: border-box;
+}
+
+*,
+::before,
+::after{
+    box-sizing: inherit;
+}
+.result{
+    color: black;
+    background-color: #3b3b98; 
+}
+
